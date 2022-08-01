@@ -31,7 +31,7 @@ const start = () => {
     if (text === "/start") {
       await bot.sendSticker(
         chatId,
-        "https://tlgrm.ru/_/stickers/d97/c1e/d97c1e8a-943c-37c4-963f-8db69b18db05/1.webp"
+        "https://tlgrm.ru/_/stickers/887/736/8877364e-9bb8-306d-ae3a-1a49f15190ec/256/14.webp"
       );
       return bot.sendMessage(
         chatId,
